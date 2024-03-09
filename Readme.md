@@ -2,4 +2,8 @@
 
 Box Model
 Rutas relativas
-Tablas
+
+## Tablas
+
+rowspan = vertical occupation
+colspan = horizontal occupation

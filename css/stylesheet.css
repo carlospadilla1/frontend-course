@@ -3,3 +3,11 @@ table, th, td {
     border-collapse: collapse;
     padding: 3px;
 }
+
+table {
+    width: 100%;
+}
+
+.rowspan {
+    text-align: center;
+}
