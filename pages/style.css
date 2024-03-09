@@ -1,0 +1,32 @@
+/*Asignándo color*/
+h1 {
+    color: #0d3557;
+}
+
+/*Eliminando estilos y asignando color*/
+ul {
+    list-style: none;
+    background-color: #457b9d;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+/*Permite cambiar el posicionamiento dentro de un bloque*/
+
+li {
+    float: left;
+}
+
+/*Seleccionando elementos a que estén dentro de li*/
+li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+li a:hover{
+    background-color: #1d3557;
+}

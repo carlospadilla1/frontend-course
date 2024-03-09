@@ -12,3 +12,7 @@
   - ul = unordered list
   - ol = ordered list
   - dl = definition list
+- Menú de Navegación
+  - float : left o right
+  - display: block
+  - overflow: scroll
