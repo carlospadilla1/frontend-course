@@ -5,4 +5,5 @@
 * Tablas
   * rowspan = vertical occupation
   * colspan = horizontal occupation
-*algo
+  * even = par
+  * odd = impar

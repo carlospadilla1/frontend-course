@@ -1,13 +1,31 @@
+table {
+    width: 100%;
+}
+
 table, th, td {
     border: solid black 1px;
     border-collapse: collapse;
     padding: 3px;
 }
 
-table {
-    width: 100%;
+caption {
+    color: #ff0000;
+    font-size: 45px;
+    line-height: 70px;
+    font-family: "Trocchi", serif;
 }
 
-.rowspan {
-    text-align: center;
+th {
+    background-color: #1d3557;
+    color: white;
+}
+
+/*table row selection par*/
+tr:nth-child(even){
+    background-color: #f1faee;
+}
+
+/*table row selection impar*/
+tr:nth-child(odd){
+    background-color: #a8dadc;
 }
