@@ -3,5 +3,6 @@
 * Box Model
 * Rutas relativas
 * Tablas
- * rowspan = vertical occupation
- * colspan = horizontal occupation
+  * rowspan = vertical occupation
+  * colspan = horizontal occupation
+*algo
